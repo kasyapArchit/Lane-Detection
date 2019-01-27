@@ -14,4 +14,9 @@ Basic pipeline:<br>
 Images:<br>
     1. https://github.com/udacity/CarND-LaneLines-P1/tree/master/test_images<br>
     2. Google Images<br>
+    
+Refrences:<br>
+    1. https://towardsdatascience.com/finding-lane-lines-on-the-road-30cf016a1165
+    2. https://github.com/naokishibuya/car-finding-lane-lines
+    3. https://github.com/kenshiro-o/CarND-LaneLines-P1
 

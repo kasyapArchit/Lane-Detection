@@ -16,7 +16,7 @@ Images:<br>
     2. Google Images<br>
     
 Refrences:<br>
-    1. https://towardsdatascience.com/finding-lane-lines-on-the-road-30cf016a1165
-    2. https://github.com/naokishibuya/car-finding-lane-lines
-    3. https://github.com/kenshiro-o/CarND-LaneLines-P1
+    1. https://towardsdatascience.com/finding-lane-lines-on-the-road-30cf016a1165<br>
+    2. https://github.com/naokishibuya/car-finding-lane-lines<br>
+    3. https://github.com/kenshiro-o/CarND-LaneLines-P1<br>
 
